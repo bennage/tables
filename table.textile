@@ -3,3 +3,17 @@ Test
 |_. name|_. age|
 |Walter|5|
 |Florence|6|
+
+|{background:#ddd}. Cell with background|Normal|
+|\2. Cell spanning 2 columns|
+|/2. Cell spanning 2 rows|one|
+|two|
+|>. Right-aligned cell|<. Left-aligned cell|
+
+
+|{background:#ddd}. Cell with background|Normal|
+|\2. what if I have a lot of test and need to span multiple lines?
+can I start a new paragraph?|
+|/2. Cell spanning 2 rows|one|
+|two|
+|>. Right-aligned cell|<. Left-aligned cell|
