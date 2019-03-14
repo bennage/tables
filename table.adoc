@@ -15,7 +15,7 @@ die 'connect: '.$dbh->errstr;
 .Path syntax
 Path: '/some/filez.txt', '.b'
 
-Path: 'modules'
+some place 'modules'
 
 
 .Windtrainer workouts
