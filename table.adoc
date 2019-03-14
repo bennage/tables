@@ -12,6 +12,11 @@ Optional version, optional date
 [source,perl]
 die 'connect: '.$dbh->errstr;
 
+.Path syntax
+Path: '/some/filez.txt', '.b'
+
+Path: 'modules'
+
 
 .Windtrainer workouts
 [width="80%",cols="3,^2,^2,10",options="header"]
