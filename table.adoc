@@ -7,6 +7,22 @@ Optional version, optional date
 :Date:      AlternativeWayToSetOptional date
 :Revision:  AlternativeWayToSetOptional version
 
+.Multiline cells, row/col span
+|====
+|Date |Duration |Avg HR |Notes
+
+|22-Aug-08 .2+^.^|10:24 | 157 |
+Worked out MSHR (max sustainable
+heart rate) by going hard
+for this interval.
+
+|22-Aug-08 | 152 |
+Back-to-back with previous interval.
+
+|24-Aug-08 3+^|none
+
+|====
+
 .Optional Title
 
 [source,perl]
@@ -19,7 +35,7 @@ some place 'modules'
 
 
 .Windtrainer workouts
-[width="80%",cols="3,^2,^2,10",options="header"]
+[width="80%",cols="3,^2,^2,>10",options="header"]
 |=========================================================
 |Date |Duration |Avg HR |Notes
 
