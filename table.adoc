@@ -1,3 +1,18 @@
+Main Header
+===========
+Optional Author Name <optional@author.email>
+Optional version, optional date
+:Author:    AlternativeWayToSetOptional Author Name
+:Email:     <AlternativeWayToSetOptional@author.email>
+:Date:      AlternativeWayToSetOptional date
+:Revision:  AlternativeWayToSetOptional version
+
+.Optional Title
+
+[source,perl]
+die 'connect: '.$dbh->errstr;
+
+
 .Windtrainer workouts
 [width="80%",cols="3,^2,^2,10",options="header"]
 |=========================================================
