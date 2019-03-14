@@ -11,7 +11,7 @@ Optional version, optional date
 |====
 |Date |Duration |Avg HR |Notes
 
-|22-Aug-08 .2+>.>|10:24 | 157 |
+|22-Aug-08 .2+<.<|10:24 | 157 |
 Worked out MSHR (max sustainable
 heart rate) by going hard
 for this interval.
